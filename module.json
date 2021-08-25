@@ -2,7 +2,7 @@
     "name": "anomaly5e",   
     "title": "Anomaly 5e Custom Class",   
     "description": "Class and Features for the Anomaly Class",   
-    "version": "1.0.0",
+    "version": "2.4.0",
 	"author": "Mike Tran",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.9",
