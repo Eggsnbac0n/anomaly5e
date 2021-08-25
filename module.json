@@ -1,0 +1,25 @@
+{   
+    "name": "anomaly5e",   
+    "title": "Anomaly 5e Custom Class",   
+    "description": "Class and Features for the Anomaly Class",   
+    "version": "1.0.0",
+	"author": "Mike Tran",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "0.8.9",
+    "packs": [
+        {
+            "name": "class",
+            "label": "Anomaly Class",
+            "path": "./packs/anomalyclass.db",
+            "entity": "Item"
+        },
+        {
+            "name": "features",
+            "label": "Anomaly Class Features",
+            "path": "./packs/anomalyfeatures.db",
+            "entity": "Item"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+  }
